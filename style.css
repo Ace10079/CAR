@@ -1,0 +1,56 @@
+body{
+    background-color: lavenderblush;
+}
+h1{
+    font-style: italic;
+    font-size: 50px;
+    position: relative;
+    left: 500px;
+}
+.text{
+    font-style: italic;
+    font-size: 30px;
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+div{
+    background-color: cyan;
+}
+.size{
+    width: 100px;
+}
+.title{
+    font-size: 30px;
+    font-style: oblique;
+}
+.space{
+    font-size: 50px;
+    font-style: italic;
+    position: relative;
+    left: 550px;
+}
+.div1{
+    height: 800px;
+    width: 500px;
+    position: relative;
+    left: 350px;
+}
+.curve{
+    position: relative;
+    left:120px;
+    top: 20px;
+    font-size:50px;
+}
+.img{
+    max-height: 200px;
+    position: relative;
+    left: 60px;
+}
+.down{
+    position: relative;
+    top: 10px;
+}
+.jeep{
+    max-height: 250px;
+}
